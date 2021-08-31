@@ -42,6 +42,19 @@ Members - in alphabetical order
 > cd reader && npm i && npm run start
 > ```
 
-External APIs used
+### External APIs used
 
 - [IEX Cloud](https://iexcloud.io/docs/api/#company)
+
+## Technical Stack Used
+
+- [MongoDB](https://www.mongodb.com/)
+- [Firebase login and auth](https://firebase.google.com/docs/auth/web/google-signin)
+- [Flutter](https://flutter.dev)
+- [BaSH](https://basher.dev)
+- [JWT](https://jwt.io/)
+- [IEX Cloud](https://iexcloud.io/docs/api/#company)
+- [Google Cloud Platform](https://cloud.google.com/)
+- [GitHub](https://www.github.com/AvanishCodes/SVNIT-Team2)
+- [JavaScript](https://www.javascript.com/)
+- [Node.js](https://nodejs.org/)
